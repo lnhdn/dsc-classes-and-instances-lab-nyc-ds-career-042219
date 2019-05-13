@@ -1,6 +1,6 @@
 class Ride: 
   pass 
- class Driver: 
+class Driver: 
    pass 
- class Passenger: 
+class Passenger: 
    pass
