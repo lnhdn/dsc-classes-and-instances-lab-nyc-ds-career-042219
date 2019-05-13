@@ -1,3 +1,2 @@
-class ride: 
- class RIDE: 
- pass
+class Ride: 
+  pass
